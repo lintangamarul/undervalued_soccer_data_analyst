@@ -113,6 +113,16 @@ This project uses data from **Transfermarkt**, a comprehensive soccer database c
 - Real-time market valuations
 - Transfer history and contract details
 
+**Download Dataset:**  
+Access the complete dataset on Kaggle: [Player Scores - Transfermarkt Dataset](https://www.kaggle.com/datasets/davidcariboo/player-scores)
+
+The dataset includes all necessary CSV files:
+- Player demographics and contract information
+- Match appearances and performance statistics
+- Historical market valuations
+- Club and competition details
+- Game events and lineups
+
 ## Key Metrics Explained
 - **Market Value (EUR):** Current estimated value of the player on the transfer market
 - **Fair Value (EUR):** Predicted value based on performance metrics (goals, assists, minutes played)
